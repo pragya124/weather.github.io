@@ -1,0 +1,17 @@
+.headerlist{
+    display:flex;
+    width:100%;
+}
+.headerlist a{
+    width:20%;
+}
+.headerlist nav{
+    width:80%;
+}
+.linklistitem{
+    display:flex;
+} 
+.linklistitem li{
+    list-style-type: none;
+    padding: 0 20px;
+}
